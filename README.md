@@ -45,7 +45,7 @@
 
 ### 📫 Контакты
 
-- Email: [aomurzakov09@gmail.com](aomurzakov09@gmail.com)
+- Email: [aomurzakov09@gmail.com](mailto:aomurzakov09@gmail.com)
 - Telegram: [@Arslan107](https://t.me/@Arslan107)
 
 ---
