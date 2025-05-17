@@ -45,7 +45,7 @@
 
 ### 📫 Контакты
 
-- Email: [you@example.com](aomurzakov09@gmail.com)
+- Email: [aomurzakov09@gmail.com](aomurzakov09@gmail.com)
 - Telegram: [@ваш_ник](https://t.me/ваш_ник)
 
 ---
